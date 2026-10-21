@@ -21,3 +21,5 @@ Icon?
 
 # task1 binary
 task1/arrays
+# task2 local .NET project
+task2/demo/
